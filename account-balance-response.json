@@ -1,0 +1,18 @@
+{
+  "balance": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "balance_available": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "currency": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "preauth_amount": {
+    "type": "{string}",
+    "description": "{string}"
+  }
+}

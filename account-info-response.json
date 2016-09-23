@@ -1,0 +1,49 @@
+{
+  "account_number": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "currency": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "customers": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "IBAN": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "is_debit_note_enabled": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "is_locked": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "label": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "overdraft": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "id": {
+    "type": "{string}",
+    "description": "{string}"
+  },
+  "created_at": {
+    "type": "{string}",
+    "format": "{string}",
+    "description": "{string}"
+  },
+  "updated_at": {
+    "type": "{string}",
+    "description": "{string}"
+  }
+} 
+ 
+ 
